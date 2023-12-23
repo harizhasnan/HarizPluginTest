@@ -1,0 +1,10 @@
+<actions>
+    <!-- Add this inside the actions tag -->
+    <action id="DocumentationGeneratorPlugin" class="DocumentationGeneratorPlugin" text="Generate Documentation"/>
+</actions>
+
+<dependency>
+    <groupId>org.apache.httpcomponents</groupId>
+    <artifactId>httpclient</artifactId>
+    <version>4.5.13</version>
+</dependency>
